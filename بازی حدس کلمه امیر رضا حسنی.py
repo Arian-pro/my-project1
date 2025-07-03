@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import random
+print('**************')
 
 #=====List of words=====
 words = ['red','blue','yellow','green','orange','purple','pink','brown','black','gray',]
